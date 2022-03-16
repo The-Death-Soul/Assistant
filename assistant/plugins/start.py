@@ -3,7 +3,7 @@ from telethon import events, Button
 
 PM_START_TEXT = """
 **Hi {}**
-I am a bot who works for @The_Death_Soul and can detect spammers in groups can protect groups from then
+💠I am a Assistant bot who works for @The_Death_Soul and can detect spammers in groups can protect groups from then
 
 **Click the below button for getting help menu!**
 """
