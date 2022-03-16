@@ -14,7 +14,7 @@ HELP_TEXT = """
 /start - To Start Me ;)
 /help - To Get Available Help Menu
 
-__Report Bugs At--->__ **@RaichuOfficial**
+__Report Bugs At--->__ **@The_Death_Soul**
 All cmd can be used with ! or ? or /.
 """.format(Config.BOT_USERNAME)
 
