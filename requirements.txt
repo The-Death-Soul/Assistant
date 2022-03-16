@@ -1,5 +1,5 @@
-# Powered By : © TeamRaichu 
-# Copyright (C) 2022 @RaiChuOfficial
+# Powered By : © Love_Dear_Comrades 
+# Copyright (C) 2022 @The_Death_Soul
 
 telethon>=1.21.1
 requests
