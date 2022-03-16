@@ -1,7 +1,7 @@
 {
   "name": "assistant",
   "description": "A simple group-manager bot made with Python [Telethon].",
-  "logo": "https://telegra.ph/file/c097c4cb41e6c1f457860.jpg",
+  "logo": "https://te.legra.ph/file/8fa3676f1b98a61804007.jpg",
   "keywords": [
     "telegram",
     "TgBot",
@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/ProXSammY/assistant",
   "website": "https://github.com/TeamRaichu",
-  "success_url": "t.me/OfficialRaichu",
+  "success_url": "t.me/The_Death_Soul",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
