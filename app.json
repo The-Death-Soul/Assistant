@@ -1,5 +1,5 @@
 {
-  "name": "assistant",
+  "name": "Assistant",
   "description": "A simple group-manager bot made with Python [Telethon].",
   "logo": "https://te.legra.ph/file/8fa3676f1b98a61804007.jpg",
   "keywords": [
@@ -10,7 +10,7 @@
     "productivity",
     "Group-Manager"
   ],
-  "repository": "https://github.com/ProXSammY/assistant",
+  "repository": "https://github.com/The-Death-Soul/Assistant",
   "website": "https://github.com/TeamRaichu",
   "success_url": "t.me/The_Death_Soul",
   "env": {
