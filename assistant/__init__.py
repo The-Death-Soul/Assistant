@@ -1,5 +1,5 @@
-# Powered By: © TeamRaichu
-# Copyright (C) 2022 @OfficialRaichu
+# Powered By: © Love_Dear_Comrades
+# Copyright (C) 2022 @The_Death_Soul
 
 from telethon import TelegramClient
 from assistant.Conf import Config
